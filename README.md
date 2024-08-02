@@ -1,0 +1,1 @@
+As the repo's name implies, I -horribly- made Hangman. This is my biggest project yet, which doesn't say much because I started two weeks ago, have fun ripping the dumpster fire that is my code to shreds. Have fun.
